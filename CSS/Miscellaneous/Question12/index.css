@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+  border: 2px solid black;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  border: 2px solid blue;
+}
