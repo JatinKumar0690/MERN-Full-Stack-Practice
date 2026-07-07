@@ -1,0 +1,14 @@
+* {
+  font-family: Georgia;
+}
+.poem {
+  color: #964b00;
+  text-align: center;
+}
+.poem-title {
+  text-align: center;
+}
+
+.wiki-link {
+  color: green;
+}
